@@ -1,37 +1,38 @@
 ### 👋 Welcome to my GitHub
 
-I'm an early computer science learner diving deep into low-level systems and performance programming. Currently exploring **Assembly** and **Rust** to build a strong foundation in how computers really work.
+I'm an early computer science learner exploring the world of **Artificial Intelligence**, **Machine Learning**, and **Python development**. I’m especially interested in how machines learn from data and make intelligent decisions.
 
 ---
 
 ### 🔧 What I'm Learning
-- 🤖 **AI**: Computer Vision and CNNs in Python
-- 🦀 **Rust**: Safety, speed, and system-level programming
-- 🧠 **Assembly**: Understanding computing at the lowest level
+- 🧠 **Machine Learning**: Neural networks, model training, and algorithm basics
+- 🤖 **AI with Python**: Using libraries like TensorFlow, PyTorch, and scikit-learn
+- 📊 **Data Science Fundamentals**: Data preprocessing, visualization, and analysis
 - 🛠️ **Git & GitHub**: Version control and collaboration tools
 
 ---
 
 ### 🚧 Projects
 I'm currently working on:
-- A small **terminal-based calculator** in Rust
-- An experiment with **emulating simple CPU instructions**
-- A personal **notes parser** built in Rust for learning file I/O
+- A **handwritten digit recognizer** using Convolutional Neural Networks (CNNs)
+- An **object detection tool** using Python and the YOLO model
+- A **visual training monitor** for ML models (Python + matplotlib)
 
 ---
 
 ### 🎯 Goals
-- Master the Rust programming language
-- Build solid low-level projects that show real skill
-- Contribute to open-source Rust tools and libraries
-- Understand the fundamentals of Machine Learning
+- Master core concepts in Machine Learning and Deep Learning
+- Build impactful AI tools and projects with Python
+- Contribute to open-source ML or AI educational tools
+- Explore the ethics and transparency of AI systems
 
 ---
 
 ### 💡 Fun Fact
-I'm always curious about how things work under the hood—whether it's a line of code, a compiler, or a computer chip. I like figuring out the “why,” not just the “how.”
+I'm fascinated by how machines can "see" images, "understand" patterns, and even "learn" over time. I'm always looking for the deeper logic behind how things work — not just how to use them.
 
 ---
 
 Thanks for visiting my profile! Feel free to check out my repositories or follow along as I level up.
+
 
