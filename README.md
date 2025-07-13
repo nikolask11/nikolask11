@@ -32,4 +32,4 @@ I'm always curious about how things work under the hood—whether it's a line of
 ---
 
 Thanks for visiting my profile! Feel free to check out my repositories or follow along as I level up.
-§
+
