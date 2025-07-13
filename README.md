@@ -5,6 +5,7 @@ I'm an early computer science learner diving deep into low-level systems and per
 ---
 
 ### 🔧 What I'm Learning
+- 🤖 **AI**: Computer Vision and CNNs in Python
 - 🦀 **Rust**: Safety, speed, and system-level programming
 - 🧠 **Assembly**: Understanding computing at the lowest level
 - 🛠️ **Git & GitHub**: Version control and collaboration tools
@@ -23,6 +24,7 @@ I'm currently working on:
 - Master the Rust programming language
 - Build solid low-level projects that show real skill
 - Contribute to open-source Rust tools and libraries
+- Understand the fundamentals of Machine Learning
 
 ---
 
