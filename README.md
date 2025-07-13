@@ -1,16 +1,35 @@
-## Hi there 👋
+### 👋 Welcome to my GitHub
 
-<!--
-**nikolask11/nikolask11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an early computer science learner diving deep into low-level systems and performance programming. Currently exploring **Assembly** and **Rust** to build a strong foundation in how computers really work.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 What I'm Learning
+- 🦀 **Rust**: Safety, speed, and system-level programming
+- 🧠 **Assembly**: Understanding computing at the lowest level
+- 🛠️ **Git & GitHub**: Version control and collaboration tools
+
+---
+
+### 🚧 Projects
+I'm currently working on:
+- A small **terminal-based calculator** in Rust
+- An experiment with **emulating simple CPU instructions**
+- A personal **notes parser** built in Rust for learning file I/O
+
+---
+
+### 🎯 Goals
+- Master the Rust programming language
+- Build solid low-level projects that show real skill
+- Contribute to open-source Rust tools and libraries
+
+---
+
+### 💡 Fun Fact
+I'm always curious about how things work under the hood—whether it's a line of code, a compiler, or a computer chip. I like figuring out the “why,” not just the “how.”
+
+---
+
+Thanks for visiting my profile! Feel free to check out my repositories or follow along as I level up.
+§
