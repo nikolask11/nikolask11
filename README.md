@@ -14,7 +14,7 @@ I'm an early computer science learner exploring the world of **Artificial Intell
 
 ### 🚧 Projects
 I'm currently working on:
-- An **object recognizer**, but I'm just in the blueprint phase now.
+- A **trash sorter**, but I'm just in the blueprint phase now.
 
 ---
 
