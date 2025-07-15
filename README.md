@@ -14,9 +14,7 @@ I'm an early computer science learner exploring the world of **Artificial Intell
 
 ### 🚧 Projects
 I'm currently working on:
-- A **handwritten digit recognizer** using Convolutional Neural Networks (CNNs)
-- An **object detection tool** using Python and the YOLO model
-- A **visual training monitor** for ML models (Python + matplotlib)
+- An **object recognizer**, but I'm just in the blueprint phase now.
 
 ---
 
